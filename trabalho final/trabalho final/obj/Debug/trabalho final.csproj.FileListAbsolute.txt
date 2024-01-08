@@ -1,0 +1,26 @@
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\bin\Debug\trabalho final.exe.config
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\bin\Debug\trabalho final.exe
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\bin\Debug\trabalho final.pdb
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho final.csprojResolveAssemblyReference.cache
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.MainForm.resources
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho final.csproj.GenerateResource.Cache
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho final.exe
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho final.pdb
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.historia.resources
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.jogos.resources
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.historiabenfica.resources
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.bilhete.resources
+C:\Users\guies\Documents\trabalho\escola\programação\11º\módulo 9\trabalho final\trabalho final\trabalho final\obj\Debug\trabalho_final.roupa.resources
+E:\programação guui\trabalho final\trabalho final\bin\Debug\trabalho final.exe.config
+E:\programação guui\trabalho final\trabalho final\bin\Debug\trabalho final.exe
+E:\programação guui\trabalho final\trabalho final\bin\Debug\trabalho final.pdb
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho final.csprojResolveAssemblyReference.cache
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.bilhete.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.historia.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.historiabenfica.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.jogos.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.MainForm.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho_final.roupa.resources
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho final.csproj.GenerateResource.Cache
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho final.exe
+E:\programação guui\trabalho final\trabalho final\obj\Debug\trabalho final.pdb
